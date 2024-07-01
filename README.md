@@ -1,4 +1,6 @@
 # HR-Analytics-Dashboard-PowerBi-Project
+![PowerBi_HrAnalyticsDashboard](https://github.com/AabshaarShaikh20/HR-Analytics-Dashboard-PowerBi-Project/assets/169930813/d089fadb-ee6e-4e05-a635-6d69ec6bc78f)
+
 
 ## Project Aim:
 - The aim of this HR Analytics Dashboard project is to provide a comprehensive and interactive analysis of employee attrition within an organization.
